@@ -1,0 +1,103 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Dec 11 12:34:13 2024
+;; Desktop file format version 208
+;; Emacs version 31.0.50
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (26457 14701 424906 52000) (desktop . "208") "u0_a478@localhost" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-1ASC-Droid Sans Mono-regular-normal-normal-*-27-*-*-*-m-0-iso10646-1") (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "gray80") (background-color . "#181a26") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (menu-bar-lines . 1) (tab-bar-lines . 0) (tool-bar-lines . 1) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen . maximized) (visibility . t) (use-frame-synchronization . t) (skip-taskbar) (z-group) (scroll-bar-foreground) (scroll-bar-background) (display-type . color) (background-mode . dark) (cursor-color . "green") (font-parameter) (last-focus-update) (frameset--id . "0F8D-4F16-567C-688B") (frameset--mini t) (height . 36) (width . 80) (modeline . t) (unsplittable) (left . 0) (top . 0) (border-width . 0) (icon-name) (display . "android") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 3) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 132) (min-pixel-width . 160) (min-pixel-height-ignore . 132) (min-pixel-width-ignore . 48) (min-pixel-height-safe . 33) (min-pixel-width-safe . 32)) leaf (pixel-width . 1296) (pixel-height . 1155) (total-width . 81) (total-height . 35) (normal-height . 1.0) (normal-width . 1.0) (buffer "*Buffer List*" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 nil nil) (vscroll . 0) (dedicated) (point . 830) (start . 327))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-1ASC-Droid Sans Mono-regular-normal-normal-*-27-*-*-*-m-0-iso10646-1") (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "gray80") (background-color . "#181a26") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (menu-bar-lines . 1) (tab-bar-lines . 0) (tool-bar-lines . 2) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen . maximized) (visibility . t) (use-frame-synchronization . t) (skip-taskbar) (z-group) (scroll-bar-foreground) (scroll-bar-background) (display-type . color) (background-mode . dark) (cursor-color . "green") (font-parameter) (environment) (last-focus-update . t) (frameset--id . "0904-CF1F-9F87-9F13") (frameset--mini t . t) (height . 41) (width . 66) (modeline . t) (unsplittable) (left . 0) (top . 65) (border-width . 0) (icon-name) (display . "android") (explicit-name)) ((min-height . 8) (min-width . 10) (min-height-ignore . 6) (min-width-ignore . 3) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 264) (min-pixel-width . 160) (min-pixel-height-ignore . 198) (min-pixel-width-ignore . 48) (min-pixel-height-safe . 66) (min-pixel-width-safe . 32)) vc (pixel-width . 1080) (pixel-height . 1336) (total-width . 68) (total-height . 40) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1080) (pixel-height . 739) (total-width . 68) (total-height . 22) (normal-height . 0.5532010820559061) (normal-width . 1.0) (buffer "MovieList.js" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 nil nil) (vscroll . 0) (dedicated) (point . 119) (start . 1)) (prev-buffers ("index.js" 1 415) ("App.js" 582 1121) ("*vc*" 1 214) ("*eshell*" 1779 2084) ("project" 1 589) ("*GNU Emacs*" 224 268) ("*scratch*" 1 148))) (leaf (last . t) (pixel-width . 1080) (pixel-height . 597) (total-width . 68) (total-height . 18) (normal-height . 0.44679891794409377) (normal-width . 1.0) (buffer "App.js" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 nil nil) (vscroll . 0) (dedicated) (point . 117) (start . 1)) (prev-buffers ("*vc-dir*<src>" 1 117) ("*Buffer List*" 241 627) ("*vc-dir*<project>" 429 524) ("*Help*" 322 630)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '(#("version" 0 7 (isearch-case-fold-search t isearch-regexp-function #[513 "\300\301\302\300\303\304\300\305\306\307!###\207" [replace-regexp-in-string "\"" "[\"“”]" "'" "['’]" "`" "[`‘]" regexp-quote] 13 ("/assets/lisp/isearch.elc" . 176161)]))))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/storage/emulated/0/dcoderr/project/src/components/MovieList.js" "/storage/emulated/0/dcoderr/project/src/index.js" "/" "/storage/emulated/0" "/storage/emulated/0/dcoderr/project/src/" "/storage/emulated/0/dcoderr/project/src/App.js" "/storage/emulated/0/dcoderr/project/" "/storage/emulated/0/dcoderr/project/src/App.js"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/storage/emulated/0/dcoderr/project/src/components/MovieList.js"
+  "MovieList.js"
+  'js-mode
+  '(semantic-idle-scheduler-mode ede-minor-mode font-lock-mode)
+  119
+  '(118 nil)
+  nil
+  nil
+  '((buffer-display-time 26457 14697 594223 593000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (52 1))))
+
+(desktop-create-buffer 208
+  "/storage/emulated/0/dcoderr/project/src/App.js"
+  "App.js"
+  'js-mode
+  '(semantic-idle-scheduler-mode ede-minor-mode font-lock-mode)
+  117
+  '(52 nil)
+  nil
+  nil
+  '((buffer-display-time 26457 14697 594225 516000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (117 51 45 48))))
+
+(desktop-create-buffer 208
+  nil
+  "*vc-dir*"
+  'vc-dir-mode
+  nil
+  117
+  '(nil nil)
+  t
+  '("/storage/emulated/0/dcoderr/project/src/" . Git)
+  '((buffer-display-time 26457 14419 91514 869000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/storage/emulated/0/dcoderr/project/src/index.js"
+  "index.js"
+  'js-mode
+  '(semantic-idle-scheduler-mode ede-minor-mode font-lock-mode)
+  415
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 26457 14366 518062 676000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "*vc-dir*"
+  'vc-dir-mode
+  nil
+  524
+  '(356 nil)
+  t
+  '("/storage/emulated/0/dcoderr/project/" . Git)
+  '((buffer-display-time 26457 14020 191087 501000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "project"
+  'dired-mode
+  '(font-lock-mode)
+  589
+  '(nil nil)
+  t
+  '("/storage/emulated/0/dcoderr/project/")
+  '((buffer-display-time 26457 13881 808675 369000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "*info*"
+  'Info-mode
+  '(font-lock-mode isearch-fold-quotes-mode)
+  2699
+  '(1 nil)
+  t
+  '("dir" "Top" ((history ("/assets/info/emacs" "Top" 1130) ("dir" "Top" 2546) ("/assets/info/emacs" "Top" 3300))))
+  '((tab-width . 8) (buffer-display-time 26457 12533 381933 141000) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t))
+  '((mark-ring (1))))
+
